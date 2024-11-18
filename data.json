@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Van Gogh Museum",
+        "location": "Amsterdam, Netherlands"
+    },
+    {
+        "id": 2,
+        "title": "The Art Institute of Chicago",
+        "location": "Chicago, USA"
+    },
+    {
+        "id": 3,
+        "title": "The National Gallery",
+        "location": "London, United Kingdom"
+    },
+    {
+        "id": 4,
+        "title": "Van Gogh Alive – The Experience",
+        "location": "Melbourne, Australia"
+    },
+    {
+        "id": 5,
+        "title": "Musée d'Orsay",
+        "location": "Paris, France"
+    },
+    {
+        "id": 6,
+        "title": "Kunstmuseum Basel",
+        "location": "Basel, Switzerland"
+    }
+]
